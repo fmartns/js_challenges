@@ -13,3 +13,4 @@ if ((user == adm_user) && (pass == adm_pass)) {
 } else {
     alert("Ocorreu um erro.");
 }
+
